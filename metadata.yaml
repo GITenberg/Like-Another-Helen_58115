@@ -1,0 +1,34 @@
+_repo: Like-Another-Helen_58115
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, Charles M.
+    - Relyea, C. M. (Charles Mark)
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+creator:
+  author:
+    agent_name: Horton, George
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '49694'
+    url: http://www.gutenberg.org/2009/agents/49694
+description: ''
+gutenberg_issued: '2018-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crete (Greece) -- History -- Insurrection, 1866-1868 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Like Another Helen
+url: http://www.gutenberg.org/ebooks/58115
